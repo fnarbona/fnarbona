@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fernando @fnarbona
-- 👀 I’m interested in mathematics, statistics, machine learning, payment systems
-- 🌱 I’m currently learning  python for data science, stripe payments, twitter API v2
+- 👀 I’m interested in math & stats, UX/UI, and web3
+- 🌱 I’m currently learning stacks web3 ecosystem & mobile development
 - 🤝 I’m looking to collaborate on projects to help the community, data for good, or anything unique!
-- 📫 How to reach me - fernandon550@gmail.com
+- 📫 How to reach me - { email: dev@blockmo.io, twitter: @frn_btc }
 - 🏂 Personal interests of mine are tech 💻 , environment/nature 🌳 , snowboarding 🏂 , and mountain biking 🚴 
 
 <!---
