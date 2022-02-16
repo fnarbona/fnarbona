@@ -2,7 +2,7 @@
 - 👀 I’m interested in math & stats, UX/UI, and web3
 - 🌱 I’m currently learning stacks web3 ecosystem & mobile development
 - 🤝 I’m looking to collaborate on projects to help the community, data for good, or anything unique!
-- 📫 How to reach me - { email: fernando@blockmo.io, twitter: @frn_btc }
+- 📫 How to reach me - { email: <a href="mailto:fernando@blockmo.io">fernando@blockmo.io</a>, twitter: <a href="twitter.com/frn_btc">@frn_btc</a> }
 - 🏂 Personal interests of mine are tech 💻 , environment/nature 🌳 , snowboarding 🏂 , and mountain biking 🚴 
 
 <!---
