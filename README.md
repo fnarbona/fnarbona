@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernando @fnarbona
+- 👋 Hi, I’m @fnarbona
 - 👀 I’m interested in math & stats, UX/UI, and web3
 - 🌱 I’m currently learning stacks web3 ecosystem & mobile development
 - 🤝 I’m looking to collaborate on projects to help the community, data for good, or anything unique!
