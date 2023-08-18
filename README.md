@@ -1,10 +1,10 @@
-Hi my name is Fernando Narbona ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi my name is Fernando Narbona
 
 FrontEnd Software Engineer
-## I specialize on FrontEnd, but I am FullStack capable
 --------------------
+ I specialize on the FrontEnd, but I am FullStack capable.
 
-I changed careers after developing a passion for code. Within the 5 years I've actually worked on coding, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
+I changed careers after developing a passion for code. Within the 5 years I've worked on development, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
 
 *   🌍  I'm based in Miami, FL
 *   ✉️  You can contact me at [fernando@streamstate.tech](mailto:fernando@streamstate.tech)
