@@ -10,9 +10,6 @@ I changed careers after developing a passion for code. Within the 5 years I've a
 *   🧠  I'm learning Docker, AWS, and System Design
 *   🤝  I’m looking to collaborate on projects to help the community, data for good, or anything unique!
 *   ⚡  I love being outdoors, whether it's playing sports, or taking a long walk to clear my mind.### Skills 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-                    </p>
                     
 ### Socials
          
