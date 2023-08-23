@@ -8,6 +8,7 @@ I changed careers after developing a passion for code. Within the 5 years I've w
 
 *   🌍  I'm based in Miami, FL
 *   ✉️  You can contact me at [fnarbona@outlook.com](mailto:fnarbona@outlook.com)
+*   ✉️  For freelance work, you can contact me at [fernando@streamstate.tech](mailto:fernando@streamstate.tech)
 *   🧠  I'm learning Docker, AWS, and System Design
 *   🤝  I’m looking to collaborate on projects to help the community, data for good, or anything unique!
 *   ⚡  I love being outdoors, whether it's playing sports, or taking a long walk to clear my mind.
