@@ -4,7 +4,7 @@ FrontEnd Software Engineer
 --------------------
  I specialize on the FrontEnd, but I am FullStack capable. I can also build Mobile apps using React Native.
 
-I changed careers after developing a passion for code. Within the 5 years I've worked on development, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
+I changed careers after developing a passion for code. Within the 5 years, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
 
 *   🌍  I'm based in Miami, FL
 *   ✉️  You can contact me at [fnarbona@outlook.com](mailto:fnarbona@outlook.com)
