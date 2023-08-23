@@ -2,7 +2,7 @@ Hi my name is Fernando
 
 FrontEnd Software Engineer
 --------------------
- I specialize on the FrontEnd, but I am FullStack capable.
+ I specialize on the FrontEnd, but I am FullStack capable. I can also build Mobile apps using React Native.
 
 I changed careers after developing a passion for code. Within the 5 years I've worked on development, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
 
