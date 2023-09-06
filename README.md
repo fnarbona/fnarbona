@@ -7,7 +7,6 @@ FrontEnd Software Engineer
 I changed careers after developing a passion for code. Within the 5 years, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications.
 
 *   🌍  I'm based in Miami, FL
-*   ✉️  You can contact me at [fnarbona@outlook.com](mailto:fnarbona@outlook.com)
 *   ✉️  For freelance work, you can contact me at [fernando@streamstate.tech](mailto:fernando@streamstate.tech)
 *   🧠  I'm learning Docker, AWS, and System Design
 *   🤝  I’m looking to collaborate on projects to help the community, data for good, or anything unique!
