@@ -2,7 +2,7 @@ Hi my name is Fernando, and I'm a FrontEnd Software Engineer
 --------------------
  I specialize on the FrontEnd, but I am FullStack capable. I can also build Mobile apps using React Native.
 
-I changed careers after developing a passion for code. Within the 5 years, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications. I'm committed to improving everyday, and working my way to starting my own company.
+I changed careers after developing a passion for code. Within the 5 years, I've led a front end team at a fortune 100, taught a bootcamp, and developed my own applications. I'm committed to improving everyday!
 
 *   🌍  I'm based in Miami, FL
 *   ✉️  For freelance work, you can contact me at [fernando@streamstate.tech](mailto:fernando@streamstate.tech)
