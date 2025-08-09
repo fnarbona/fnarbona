@@ -1,4 +1,4 @@
-Hi my name is Fernando, and I'm a FrontEnd Software Engineer
+Hi my name is Fernando, and I'm a Fullstack Software Engineer
 --------------------
  I specialize on the FrontEnd, but I am FullStack capable. I can also build Mobile apps using React Native.
 
